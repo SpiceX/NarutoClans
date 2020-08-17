@@ -1,0 +1,8 @@
+name: NarutoClans
+main: litek\clans\NarutoClans
+version: 1.0-alpha
+api: 3.0.0
+author: LiTEK
+description: A plugin for NarutoPocket
+softdepend:
+  - PurePerms

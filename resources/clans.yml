@@ -1,0 +1,40 @@
+Hyuuga:
+  perm: hyuga.join
+  perms:
+    - hyuga.perm
+Aburame:
+  perm: aburame.join
+  perms:
+    - aburame.perm
+Otsukisuki:
+  perm: otsukisuki.join
+  perms:
+    - otsukisuki.perm
+Nara:
+  perm: nara.join
+  perms:
+    - nara.perm
+Uchiha:
+  perm: uchiha.join
+  perms:
+    - uchiha.perm
+Uzumaki:
+  perm: uzumaki.join
+  perms:
+    - uzumaki.perm
+Senju:
+  perm: senju.join
+  perms:
+    - senju.perm
+Akatsuki:
+  perm: akatsuki.join
+  perms:
+    - akatsuki.perm
+Hatake:
+  perm: hatake.join
+  perms:
+    - hatake.perm
+Hyuga:
+  perm: hyuga.join
+  perms:
+    - hyuga.power
